@@ -1,8 +1,8 @@
 C #!/bin/bash
-# Inshackle v1.0
-# recoded by: CYBER KALLAN
-# github.com/cyberkallan/inshackle-bot
-# If you use any part from this code, give me the credits, please, read the License
+# TsMods v1
+# coded by: Tejas Sharma
+# instagram: @imatejas
+# Note: When entering the password, the password will not be visible on the screen due to security reasons, it's not a glitch or an error. So just type your password correctly and click enter and you're done.
 
 
 string4=$(openssl rand -hex 32 | cut -c 1-4)
